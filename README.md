@@ -9,3 +9,12 @@
 - ✅ Tài liệu hóa đặc điểm từng nhóm  
 
 [**Xem chi tiết Problem Framing →**](docs/Problem_Framing.md)
+
+## 🛠 **Công nghệ**
+- Python 3.10
+- Thư viện: Pandas, Scikit-learn, Matplotlib
+- Tools: Jupyter Notebook, Docker
+
+## 📂 **Cấu trúc Dự án**
+```bash
+# Paste cây thư mục ở đây
