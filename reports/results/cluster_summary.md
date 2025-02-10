@@ -1,4 +1,4 @@
-|    |   ('Cluster', '') |   ('Annual Income (k$)', 'mean') |   ('Annual Income (k$)', 'median') |   ('Annual Income (k$)', 'std') |   ('Spending Score (1-100)', 'mean') |   ('Spending Score (1-100)', 'median') |   ('Spending Score (1-100)', 'std') |   ('Age', 'mean') |   ('Age', 'median') |
+|    |   Cluster|   (Annual Income (k$) - (mean) |   Annual Income (k$) - (median) |   Annual Income (k$) _ (std) |   Spending Score (1-100) - (mean) |   Spending Score (1-100) - (median) |   Spending Score (1-100) - (std) |   Age - (mean) |   Age - (median) |
 |---:|------------------:|---------------------------------:|-----------------------------------:|--------------------------------:|-------------------------------------:|---------------------------------------:|------------------------------------:|------------------:|--------------------:|
 |  0 |                 0 |                          55.2963 |                               54   |                         8.98811 |                              49.5185 |                                     50 |                             6.53091 |           42.716  |                46   |
 |  1 |                 1 |                          86.4295 |                               79   |                        15.9773  |                              82.1282 |                                     83 |                             9.36449 |           32.6923 |                32   |
@@ -8,7 +8,7 @@
 
 # Phân tích cụm khách hàng
 
-## 1. Cluster 0 - High Income, Low Spending
+## 1. Cluster 3 - High Income, Low Spending
 - **Đặc điểm:** Thu nhập cao (>85k), chi tiêu thấp (<20)  
 - **Chiến lược:** Giới thiệu sản phẩm cao cấp, voucher độc quyền.
 
