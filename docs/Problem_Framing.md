@@ -8,7 +8,7 @@
 ## 2. Objectives & KPI
 | Objective | KPI | Target |
 |-----------|-----|--------|
-| Phân nhóm khách hàng | Silhouette Score | > 0.6 |
+| Phân nhóm khách hàng | K_mean | = 5 |
 | Tăng hiệu quả marketing | Tỷ lệ chuyển đổi | +15% trong 3 tháng |
 
 ## 3. Stakeholder Map
