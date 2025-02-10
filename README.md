@@ -13,7 +13,18 @@
 ## 🛠 **Công nghệ**
 - Python 3.10
 - Thư viện: NumPy, Pandas, Scikit-learn, Matplotlib
-- Tools: Github (restore và diễn giả dự án) Jupyter Notebook (Anaconda), Docker
+- Tools: Github (triển khai, restore dự án) Jupyter Notebook (Anaconda), Docker
+  
+| Công cụ | Mục đích |
+|-----------|-----|
+| Python |Các thư viện chạy trên ngôn ngữ Python|
+|Numpy|Thư viện chính gọi Pandas|
+|Pandas|Thư viện Pandas cho việc chạy các thư viện Matplotlib, Sk_learrn|
+|Sk_learn|Chạy các mô hình học máy|
+|Matplotlib|Visualize|
+|Github|Triển khai, restore REPO của dự án|
+|Jupyter Notbook|Tool|
+|Docker|Chạy các mô hình dự đoán|
 
 ## 📂 **Cấu trúc Dự án**
 
