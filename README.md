@@ -30,12 +30,17 @@ customer-segmentation/
 │   └── 3_Clustering_Model.ipynb                    # Notebook khám phá dữ liệu ban đầu.
 ├── 📂 report/
 │   ├── 📂 figures/              # Thư mục chứa các biểu đồ và hình ảnh trực quan hóa kết quả.
-│   └── 📂 report.pdf            # Báo cáo tổng kết kết quả phân tích.
+│   └── 📂 results/            # Báo cáo tổng kết kết quả phân tích.              
+        └── EDA/
+        │   └── 📂 Elements/
+        │   └── eda_summary.md
+        └── data_sample.ipynb
+        └── final_report.pdf                
 ├── 📂 src/
 │   ├── data_preprocessing.py # Script tiền xử lý dữ liệu.
 │   ├── visualization.py         # Script thực hiện phân cụm và tính toán Silhouette Score.
-│   └── 
 ├── requirements.txt          # Danh sách các thư viện cần cài đặt.
+├── .gitignore.md
 └── README.md                 # File hướng dẫn dự án (bản này).
 
 ## Hướng dẫn
