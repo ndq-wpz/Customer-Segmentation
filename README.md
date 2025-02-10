@@ -30,12 +30,11 @@ customer-segmentation/
 │   └── 3_Clustering_Model.ipynb                    # Notebook khám phá dữ liệu ban đầu.
 ├── 📂 report/
 │   ├── 📂 figures/              # Thư mục chứa các biểu đồ và hình ảnh trực quan hóa kết quả.
-│   └── report.pdf            # Báo cáo tổng kết kết quả phân tích.
+│   └── 📂 report.pdf            # Báo cáo tổng kết kết quả phân tích.
 ├── 📂 src/
 │   ├── data_preprocessing.py # Script tiền xử lý dữ liệu.
-│   ├── clustering.py         # Script thực hiện phân cụm và tính toán Silhouette Score.
-│   └── utils.py              # Các hàm tiện ích dùng chung.
-├── Dockerfile                # File cấu hình Docker cho môi trường dự án.
+│   ├── visualization.py         # Script thực hiện phân cụm và tính toán Silhouette Score.
+│   └── 
 ├── requirements.txt          # Danh sách các thư viện cần cài đặt.
 └── README.md                 # File hướng dẫn dự án (bản này).
 
