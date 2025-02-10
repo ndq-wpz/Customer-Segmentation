@@ -21,6 +21,9 @@
 ## distributions
 ![distributions](figures/distributions.png)
 
+## elbow method
+![elbow method](figures/elbow_method.png)
+
 ## gender spending
 ![gender spending](figures/gender_spending.png)
 
