@@ -47,6 +47,7 @@ customer-segmentation/
         │   └── 📂 Elements/                             # Hình ảnh/ minh họa cho phân tích EDA
         │   └── eda_summary.md                           # Tóm tắt kết quả phân tích khám phá dữ liệu (EDA) 
         └── data_sample.ipynb
+        ├── cluster_summary.md                  # Tóm tắt dữ liệu khác hàng phân nhómnhóm
         └── final_report.pdf                    # Báo cáo tổng hợp cuối cùng về phân nhóm khách hàng.      
 ├── 📂 src/
 │   ├── data_preprocessing.py                   # Script tiền xử lý dữ liệu.
