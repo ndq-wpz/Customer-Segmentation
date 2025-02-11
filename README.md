@@ -92,7 +92,7 @@ Sau khi thực hiện phân nhóm khách hàng, dự án sẽ cung cấp:
 [**Xem chi tiết Final Report →**](reports/results/final_report.pdf)
 
 - **Báo cáo trực quan hóa:**  
-[**Xem chi tiết Trực quan hóa →**](reports/results/visualize_by_PBI.pdf)
+[**Xem chi tiết Visualize →**](reports/results/visualize_by_PBI.pdf)
 
 ---
 
