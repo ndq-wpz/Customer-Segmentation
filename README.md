@@ -48,7 +48,8 @@ customer-segmentation/
         │   └── eda_summary.md                           # Tóm tắt kết quả phân tích khám phá dữ liệu (EDA) 
         └── data_sample.ipynb
         ├── cluster_summary.md                  # Tóm tắt dữ liệu khác hàng phân nhómnhóm
-        └── final_report.pdf                    # Báo cáo tổng hợp cuối cùng về phân nhóm khách hàng.      
+        ├── final_report.pdf                    # Báo cáo tổng hợp cuối cùng về phân nhóm khách hàng.
+        └── CUSTOMER SEGMENTATION.pdf           # Visualize bằng Power BIBI
 ├── 📂 src/
 │   ├── data_preprocessing.py                   # Script tiền xử lý dữ liệu.
 │   ├── visualization.py                        # Script tạo biểu đồ, phân tích cụm và tính toán độ hiệu quả của mô hình clustering.  
@@ -88,7 +89,10 @@ Sau khi thực hiện phân nhóm khách hàng, dự án sẽ cung cấp:
 [**Xem chi tiết Dữ iệu khách hàng đã phân nhóm →**](data/processed/customers_with_clusters.csv)  
 
 - **Báo cáo chi tiết:**  
-[**Xem chi tiết Final Report →**](reports/results/final_report.pdf) 
+[**Xem chi tiết Final Report →**](reports/results/final_report.pdf)
+
+- **Báo cáo trực quan hóa:**  
+[**Xem chi tiết Trực quan hóa →**](reports/results/CUSTOMERSEGMENTATION.pdf)
 
 ---
 
