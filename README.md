@@ -35,6 +35,7 @@ customer-segmentation/
 │   └── 📂 processed
         ├── cleaned_data.csv         # 
         └── standardize_data.csv     #
+        └── customers_with_clusters.csv
 ├── 📂 notebooks/
 │   ├── 1_Data_Cleaning.ipynb
     ├── 2_EDA.ipynb                                 # Notebook chính thực hiện phân tích và phân nhóm khách hàng.
