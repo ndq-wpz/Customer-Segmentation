@@ -49,7 +49,7 @@ customer-segmentation/
         └── data_sample.ipynb
         ├── cluster_summary.md                  # Tóm tắt dữ liệu khác hàng phân nhómnhóm
         ├── final_report.pdf                    # Báo cáo tổng hợp cuối cùng về phân nhóm khách hàng.
-        └── CUSTOMER SEGMENTATION.pdf           # Visualize bằng Power BIBI
+        └── visualize_by_PBI.pdf           # Visualize bằng Power BIBI
 ├── 📂 src/
 │   ├── data_preprocessing.py                   # Script tiền xử lý dữ liệu.
 │   ├── visualization.py                        # Script tạo biểu đồ, phân tích cụm và tính toán độ hiệu quả của mô hình clustering.  
@@ -92,7 +92,7 @@ Sau khi thực hiện phân nhóm khách hàng, dự án sẽ cung cấp:
 [**Xem chi tiết Final Report →**](reports/results/final_report.pdf)
 
 - **Báo cáo trực quan hóa:**  
-[**Xem chi tiết Trực quan hóa →**](reports/results/CUSTOMER_SEGMENTATION.pdf)
+[**Xem chi tiết Trực quan hóa →**](reports/results/visualize_by_PBI.pdf)
 
 ---
 
