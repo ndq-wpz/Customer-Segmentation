@@ -8,12 +8,12 @@
 - Xác định 5 phân khúc khách hàng (K_mean = 5)  
 - Tài liệu hóa đặc điểm từng nhóm
   
-[**Xem chi tiết Problem Framing →**](docs/Problem_Framing.md)
+[**Chi tiết Problem Framing →**](docs/Problem_Framing.md)
 
 ## 🛠 **Công nghệ**
 - Python 3.10
 - Thư viện: NumPy, Pandas, Scikit-learn, Matplotlib
-- Tools: Github (triển khai, restore dự án) Jupyter Notebook (Anaconda), Docker
+- Tools: Github (triển khai, restore dự án) Jupyter Notebook (Anaconda), Power BI
   
 | Công cụ | Mục đích |
 |-----------|-----|
