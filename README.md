@@ -14,7 +14,7 @@
 ## 🛠 **Công nghệ**
 - Python 3.10
 - Thư viện: NumPy, Pandas, Scikit-learn, Matplotlib
-- Tools: Github (triển khai, restore dự án) Jupyter Notebook (Anaconda), Power BI
+- Tools: Github (triển khai, restore dự án) Jupyter Notebook (Anaconda), Power BI (vissualize)
 
 ## 📂 **Cấu trúc Dự án**
 
@@ -54,11 +54,6 @@ git clone https://github.com/your-username/Customer-Segmentation.git
 pip install -r requirements.txt
 jupyter lab notebooks/3_Clustering_Model.ipynb  
 
-### 3️. **Chạy dự án**  
-1. Mở và chạy notebook `1_Data_Cleaning.ipynb` làm sạch dữ liệu.  
-2. Chạy `2_EDA.ipynb` khám phá dữ liệu.  
-3. Chạy `3_Clustering_Model.ipynb` phân nhóm khách hàng.  
-4. Kết quả trong thư mục [**Reports→**](reports/)
 ```
 
 ## 📊 Kết quả  
