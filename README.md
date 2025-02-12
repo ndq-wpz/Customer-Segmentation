@@ -1,5 +1,5 @@
 # 🎯 Customer Segmentation Project
-![Cluster Visualization](reports/figures/final_clusters.png)
+![Cluster Visualization](reports/figures/visualize_final_cluster.pdf)
 
 ## 📌 Problem Framing 
 **Business Question:**  
