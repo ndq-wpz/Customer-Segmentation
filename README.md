@@ -1,5 +1,5 @@
 # 🎯 Customer Segmentation Project
-![Cluster Visualization](reports/results/visualize_final_Cluster.pdf)
+![Cluster Visualization](reports/results/visualize_final_Cluster.png)
 
 ## 📌 Problem Framing 
 **Business Question:**  
@@ -14,7 +14,7 @@
 ## 🛠 **Công nghệ**
 - Python 3.10
 - Thư viện: NumPy, Pandas, Scikit-learn, Matplotlib
-- Tools: Github (triển khai, restore dự án) Jupyter Notebook (Anaconda), Power BI
+- Tools: Github (triển khai, restore dự án) Jupyter Notebook (Anaconda), Power BI (vissualize)
 
 ## 📂 **Cấu trúc Dự án**
 
@@ -49,25 +49,12 @@ customer-segmentation/
 └── README.md                              # Hướng dẫn tổng quan về dự án, cách sử dụng và mục tiêu phân tích.
 ```
 ## 📖 Hướng dẫn  
-Dự án này nhằm phân tích và phân nhóm khách hàng dựa trên dữ liệu thu thập được.
+```bash
+git clone https://github.com/your-username/Customer-Segmentation.git
+pip install -r requirements.txt
+jupyter lab notebooks/3_Clustering_Model.ipynb  
 
-### 1️. **Cài đặt môi trường**  
-Cài đặt các thư viện cần thiết bằng cách chạy lệnh sau trong terminal hoặc command prompt: pip install -r requirements.txt
-
-### 2️. **Cấu trúc dữ liệu**  
-- **📂 docs/raw/**: Chứa dữ liệu gốc chưa qua xử lý.  
-- **📂 docs/processed/**: Chứa dữ liệu đã qua xử lý, bao gồm dữ liệu đã làm sạch, chuẩn hóa và phân nhóm.  
-- **📂 notebooks/**: Chứa các Jupyter Notebook thực hiện làm sạch dữ liệu, phân tích khám phá dữ liệu (EDA) và phân nhóm khách hàng.  
-- **📂 report/**: Chứa kết quả phân tích dưới dạng biểu đồ, báo cáo markdown và tài liệu PDF.  
-- **📂 src/**: Chứa các script Python hỗ trợ tiền xử lý dữ liệu và trực quan hóa kết quả.  
-
-### 3️. **Chạy dự án**  
-1. Mở và chạy notebook `1_Data_Cleaning.ipynb` làm sạch dữ liệu.  
-2. Chạy `2_EDA.ipynb` khám phá dữ liệu.  
-3. Chạy `3_Clustering_Model.ipynb` phân nhóm khách hàng.  
-4. Kết quả trong thư mục [**Reports→**](reports/)   
-
----
+```
 
 ## 📊 Kết quả  
 Sau khi thực hiện phân nhóm khách hàng, dự án sẽ cung cấp:
