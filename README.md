@@ -1,6 +1,6 @@
 # 🎯 Customer Segmentation Project
 ![Cluster Visualization](reports/results/visualize_final_Cluster.png)
-[**Xem Power BI tương tác →**](index.html)
+[**Xem Power BI tương tác →**](https://ndq-wpz.github.io/Customer-Segmentation/)
 ## 📌 Problem Framing 
 **Business Question:**  
 "Tăng hiệu quả marketing 15% dựa trên phân nhóm khách hàng theo hành vi chi tiêu"
