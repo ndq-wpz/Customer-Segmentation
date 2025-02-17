@@ -29,7 +29,7 @@ customer-segmentation/
 │        └── customers_with_clusters.csv         # Dữ liệu đã phân nhóm, sẵn sàng trực quan hóa và phòng mar có thể dùng
 ├── 📂 notebooks/                        # Thư mục triển khai Jupyter Noteboook
 │   ├── 1_Data_Cleaning.ipynb                   # Notebook xử lý dữ liệu thô, làm sạch 
-│    ├── 2_EDA.ipynb                             # Notebook thực hiện phân tích khám phá dữ liệu (EDA)
+│   ├── 2_EDA.ipynb                             # Notebook thực hiện phân tích khám phá dữ liệu (EDA)
 │   └── 3_Clustering_Model.ipynb                # Notebook thực hiện phân nhóm khách hàng
 ├── 📂 report/
 │   ├── 📂 figures/                            # Thư mục chứa các biểu đồ và hình ảnh trực quan hóa kết quả.
