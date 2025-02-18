@@ -1,4 +1,4 @@
-#**Báo cáo phân tích Phân nhóm Khách hàng**  
+# **Báo cáo phân tích Phân nhóm Khách hàng**  
 ![Cluster Visualization](reports/results/visualize_final_Cluster.png)
 
 ### **1\. Tóm tắt dự án.**
@@ -45,9 +45,10 @@ Data Collection → Data Cleaning → EDA → Clustering → Deployment
 ![][image5]  
 **4.2. Đặc điểm từng cụm**
 
-![N](reports/figures/Screenshot2025-02-14160030.png)
+![a](reports/figures/Table1.png)
 
 ### **4.3. Case study điển hình**
+![N](reports/figures/Table2.png)
 
 * **Khách hàng Cluster 0:** Thu trung \+ Chi trung  
   * Tỷ lệ: 41% \- chiếm tỷ lệ lớn nhất trong cả 5 nhóm  
