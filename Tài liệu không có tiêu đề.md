@@ -124,4 +124,8 @@ Data Collection → Data Cleaning → EDA → Clustering → Deployment
 * Chưa xét đến lịch sử mua hàng  
 * Dữ liệu giới hạn ở 200 quan sát (khách hàng)
 
+### **Công cụ sử dụng**
+* Python & Jupyter Notebook: Xử lý dữ liệu và xây dựng mô hình.
+* Pandas, NumPy, Scikit-learn: Phân tích dữ liệu và phân nhóm.
+* Matplotlib & Seaborn: Trực quan hóa
 ---
