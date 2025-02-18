@@ -1,5 +1,5 @@
 # **Báo cáo phân tích Phân nhóm Khách hàng**  
-![Cluster Visualization](reports/results/visualize_final_Cluster.png)
+![Cluster Visualization](reports/results/Cluster_analysis/visualize_final_Cluster.png)
 
 ### **1\. Tóm tắt dự án.**
 
@@ -41,8 +41,7 @@ Data Collection → Data Cleaning → EDA → Clustering → Deployment
 **4\. Kết quả phân cụm**
 
 ### **4.1. Visualize 5 cụm khách hàng**
-
-![][image5]  
+ 
 **4.2. Đặc điểm từng cụm**
 
 ![a](reports/figures/Table1.png)
