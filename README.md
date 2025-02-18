@@ -15,9 +15,9 @@
 - Tools: Github (triển khai, restore dự án) Jupyter Notebook (Anaconda), Power BI (vissualize)
 ## 🖌️Tổng hợp
 - **Báo cáo trực quan hóa:**  
-[**Xem chi tiết Visualize →**](reports/results/visualize_by_PBI.pdf)
-[**Xem chi tiết Khách hàng phân nhóm →**](data/processed/cútomers_with_clusters.csv)
-[**Xem chi tiết Final Report →**](reports/results/Final_report.md)
+[**Xem chi tiết Visualize →**](reports/results/visualize_by_PBI.pdf)  
+[**Xem chi tiết Khách hàng phân nhóm →**](data/processed/cútomers_with_clusters.csv)  
+[**Xem chi tiết Final Report →**](reports/results/Final_report.md)  
 
 ---
 ## 📂 **Cấu trúc Dự án**
