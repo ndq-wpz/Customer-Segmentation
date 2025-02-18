@@ -1,5 +1,5 @@
 # 🎯 Customer Segmentation Project
-[Cluster Visualization](reports/results/Cluster_analysis/visualize_final_Cluster.png)
+![Cluster Visualization](reports/results/Cluster_analysis/visualize_final_Cluster.png)
 [**Xem Power BI tương tác →**](https://ndq-wpz.github.io/Customer-Segmentation/)
 ## 📌 Problem Framing 
 **Business Question:**  
@@ -15,7 +15,7 @@
 - Tools: Github (triển khai, restore dự án) Jupyter Notebook (Anaconda), Power BI (vissualize)
 ## 🖌️Tổng hợp
 - **Báo cáo trực quan hóa:**  
-[**Xem chi tiết Visualize →**](reports/results/https://ndq-wpz.github.io/Customer-Segmentation/)  
+[**Xem chi tiết Visualize →**](index.md)  
 [**Xem chi tiết Khách hàng phân nhóm →**](data/processed/customers_with_clusters.csv)  
 [**Xem chi tiết Final Report →**](reports/results/Final_report.md)  
 
