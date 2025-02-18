@@ -46,28 +46,7 @@ customer-segmentation/
 │   ├── visualization.py                        # Script tạo biểu đồ, phân tích cụm và tính toán độ hiệu quả của mô hình clustering.  
 ├── requirements.txt                       # Danh sách các thư viện Python cần thiết để chạy dự án.
 ├── .gitignore.md
-└── README.md                              # Hướng dẫn tổng quan về dự án, cách sử dụng và mục tiêu phân tích.
-```
-## 📖 Hướng dẫn  
-```bash
-git clone https://github.com/your-username/Customer-Segmentation.git
-pip install -r requirements.txt
-jupyter lab notebooks/3_Clustering_Model.ipynb  
-
-```
-
-## 📊 Kết quả  
-Sau khi thực hiện phân nhóm khách hàng, dự án sẽ cung cấp:
-
-- **Báo cáo phân tích khách hàng:**  
-  - Tóm tắt xu hướng và đặc điểm từng nhóm khách hàng.  
-  - Trực quan hóa dữ liệu bằng biểu đồ và đồ thị.  
-
-- **Dữ liệu đã phân nhóm:**  
-[**Xem chi tiết Dữ iệu khách hàng đã phân nhóm →**](data/processed/customers_with_clusters.csv)  
-
-- **Báo cáo chi tiết:**  
-[**Xem chi tiết Final Report →**](reports/results/final_report.pdf)
+└── README.md                              # Hướng dẫn tổng quan về dự ámd)
 
 - **Báo cáo trực quan hóa:**  
 [**Xem chi tiết Visualize →**](reports/results/visualize_by_PBI.pdf)
