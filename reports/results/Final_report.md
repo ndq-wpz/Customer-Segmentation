@@ -1,5 +1,5 @@
 # **Báo cáo phân tích Phân nhóm Khách hàng**  
-![Cluster Visualization](reports/results/Cluster_analysis/visualize_final_Cluster.png)  
+![Cluster Visualization](reports/results/Cluster_analysis/visualize_final_Cluster.png)
 ### **1\. Tóm tắt dự án.**
 
 * **Vấn đề kinh doanh:**  
