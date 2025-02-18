@@ -1,4 +1,4 @@
-**Báo cáo Phân nhóm Khách hàng**  
+#**Báo cáo phân tích Phân nhóm Khách hàng**  
 ![Cluster Visualization](reports/results/visualize_final_Cluster.png)
 
 ### **1\. Tóm tắt dự án.**
@@ -21,14 +21,14 @@ Data Collection → Data Cleaning → EDA → Clustering → Deployment
 
 ### **3.1. Phân phối dữ liệu**
 
-![][image2]
+![distribution](reports/figures/distributions.png)
 
 * **Insight:**  
 - “Độ tuổi tập trung chủ yếu từ 25 đến 40, với đỉnh là 30”   
 - “Thu nhập phổ biến nằm trong khoảng $40,000 \- $80,000”  
 - “Phân phối chi tiêu khá đều tạo đỉnh trong khoảng \-+ 50 tuổi”
 
-![][image3]
+![Box outliers](reports/figures/boxplot_outliers.png)
 
 *  **Insight:**  
 - “50% khách hàng nằm trong độ tuổi từ 28  \- 50, tập trung 25% nằm trong độ tuổi từ 28 \- 35”  
@@ -37,7 +37,7 @@ Data Collection → Data Cleaning → EDA → Clustering → Deployment
 
 ### **3.2. Tương quan biến số**
 
-  ![][image4]  
+  
 **4\. Kết quả phân cụm**
 
 ### **4.1. Visualize 5 cụm khách hàng**
@@ -45,7 +45,7 @@ Data Collection → Data Cleaning → EDA → Clustering → Deployment
 ![][image5]  
 **4.2. Đặc điểm từng cụm**
 
-![][image6]
+![N](reports/figures/Screenshot2025-02-14160030.png)
 
 ### **4.3. Case study điển hình**
 
