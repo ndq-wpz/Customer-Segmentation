@@ -8,14 +8,18 @@
 **Success Metrics:**  
 - Xác định 5 phân khúc khách hàng (K_mean = 5)  
 - Tài liệu hóa đặc điểm từng nhóm
-  
 [**Chi tiết Problem Framing →**](docs/Problem_Framing.md)
-
 ## 🛠 **Công nghệ**
 - Python 3.10
 - Thư viện: NumPy, Pandas, Scikit-learn, Matplotlib
 - Tools: Github (triển khai, restore dự án) Jupyter Notebook (Anaconda), Power BI (vissualize)
+## 🖌️Tổng hợp
+- **Báo cáo trực quan hóa:**  
+[**Xem chi tiết Visualize →**](reports/results/visualize_by_PBI.pdf)
+[**Xem chi tiết Khách hàng phân nhóm →**](data/processed/cútomers_with_clusters.csv)
+[**Xem chi tiết Final Report →**](reports/results/Final_report.md)
 
+---
 ## 📂 **Cấu trúc Dự án**
 
 ```plaintext
@@ -48,13 +52,8 @@ customer-segmentation/
 ├── .gitignore.md
 └── README.md                              # Hướng dẫn tổng quan về dự ámd)
 
-- **Báo cáo trực quan hóa:**  
-[**Xem chi tiết Visualize →**](reports/results/visualize_by_PBI.pdf)
-
----
-
+```
 ## 📑 Tài liệu  
-Dưới đây là các tài liệu tham khảo và nguồn dữ liệu được sử dụng trong dự án:
 ### 1. **Nguồn dữ liệu**  
 - Bộ dữ liệu khách hàng được lấy từ [Kaggle](https://www.kaggle.com/)
 
