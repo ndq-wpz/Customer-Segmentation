@@ -1,5 +1,5 @@
 **Báo cáo Phân nhóm Khách hàng**  
-**![][image1]**
+![Cluster Visualization](reports/results/visualize_final_Cluster.png)
 
 ### **1\. Tóm tắt dự án.**
 
