@@ -17,7 +17,7 @@
 - **Báo cáo trực quan hóa:**  
 [**Xem chi tiết Visualize →**](https://ndq-wpz.github.io/Customer-Segmentation/)  
 [**Xem chi tiết Khách hàng phân nhóm →**](data/processed/customers_with_clusters.csv)  
-[**Xem chi tiết Final Report →**](reports/results/Final_report.md)  
+[**Xem chi tiết Final Report →**](Final_report.md)  
 
 ---
 ## 📂 **Cấu trúc Dự án**
