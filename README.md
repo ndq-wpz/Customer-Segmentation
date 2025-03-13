@@ -1,7 +1,7 @@
 # 🎯 Customer Segmentation Project
 ![Cluster Visualization](reports/results/Cluster_analysis/visualize_final_Cluster.png)
 [**Xem Power BI tương tác →**](https://ndq-wpz.github.io/Customer-Segmentation/)
-## 📌 Problem Framing 
+## Problem Framing 
 **Business Question:**  
 "Tăng hiệu quả marketing 15% dựa trên phân nhóm khách hàng theo hành vi chi tiêu"
 
@@ -9,18 +9,18 @@
 - Xác định 5 phân khúc khách hàng (K_mean = 5)  
 - Tài liệu hóa đặc điểm từng nhóm
 [**Chi tiết Problem Framing →**](docs/Problem_Framing.md)
-## 🛠 **Công nghệ**
+## **Công nghệ**
 - Python 3.10
 - Thư viện: NumPy, Pandas, Scikit-learn, Matplotlib
 - Tools: Github (triển khai, restore dự án) Jupyter Notebook (Anaconda), Power BI (vissualize)
-## 🖌️Tổng hợp
+## Tổng hợp
 - **Báo cáo trực quan hóa:**  
 [**Xem chi tiết Visualize →**](https://ndq-wpz.github.io/Customer-Segmentation/)  
 [**Xem chi tiết Khách hàng phân nhóm →**](data/processed/customers_with_clusters.csv)  
 [**Xem chi tiết Final Report →**](Final_report.md)  
 
 ---
-## 📂 **Cấu trúc Dự án**
+## **Cấu trúc Dự án**
 
 ```plaintext
 customer-segmentation/
@@ -53,7 +53,7 @@ customer-segmentation/
 └── README.md                              # Hướng dẫn tổng quan về dự ámd)
 
 ```
-## 📑 Tài liệu  
+## Tài liệu  
 ### 1. **Nguồn dữ liệu**  
 - Bộ dữ liệu khách hàng được lấy từ [Kaggle](https://www.kaggle.com/)
 
