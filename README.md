@@ -54,7 +54,7 @@ customer-segmentation/
 ### 1. **Nguồn dữ liệu**  
 - Raw data được lấy từ [Kaggle](https://www.kaggle.com/)
 
-### 2. **Công cụ sử dụng**  
+### 2. **Tools**  
 - **Python & Jupyter Notebook**: Xử lý dữ liệu và xây dựng mô hình.  
 - **Pandas, NumPy, Scikit-learn**: Phân tích dữ liệu và phân nhóm.  
 - **Matplotlib & Seaborn**: Trực quan hóa 
