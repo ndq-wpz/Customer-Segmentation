@@ -9,10 +9,7 @@
 - Xác định 5 phân khúc khách hàng (K_mean = 5)  
 - Tài liệu hóa đặc điểm từng nhóm
 [**Chi tiết Problem Framing →**](docs/Problem_Framing.md)
-## **Công nghệ**
-- Python 3.10
-- Thư viện: NumPy, Pandas, Scikit-learn, Matplotlib
-- Tools: Github (triển khai, restore dự án) Jupyter Notebook (Anaconda), Power BI (vissualize)
+
 ## Tổng hợp
 - **Báo cáo trực quan hóa:**  
 [**Chi tiết Visualize →**](https://ndq-wpz.github.io/Customer-Segmentation/)  
@@ -53,9 +50,9 @@ customer-segmentation/
 └── README.md                              # Hướng dẫn tổng quan về dự ámd)
 
 ```
-## Tài liệu  
+## Ref
 ### 1. **Nguồn dữ liệu**  
-- Bộ dữ liệu khách hàng được lấy từ [Kaggle](https://www.kaggle.com/)
+- Raw data được lấy từ [Kaggle](https://www.kaggle.com/)
 
 ### 2. **Công cụ sử dụng**  
 - **Python & Jupyter Notebook**: Xử lý dữ liệu và xây dựng mô hình.  
