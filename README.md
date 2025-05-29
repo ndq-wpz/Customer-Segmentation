@@ -7,7 +7,7 @@
 
 **Success Metrics:**  
 - Xác định 5 phân khúc khách hàng (K_mean = 5)  
-- Tài liệu hóa đặc điểm từng nhóm
+- Bộ dự liệu sau phân nhóm
 [**Chi tiết Problem Framing →**](docs/Problem_Framing.md)
 
 ## Tổng hợp
